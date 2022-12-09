@@ -1,0 +1,16 @@
+{
+  "store.home": {
+    "blocks": [
+      "responsive-layout.desktop",
+      "responsive-layout.mobile"
+    ]
+  },
+  "responsive-layout.desktop": {
+    "children": [
+    ]
+  },
+  "responsive-layout.mobile": {
+    "children": [
+    ]
+  }
+}
